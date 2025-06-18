@@ -1,0 +1,7 @@
+# Ignore virtual environments
+recommendation/
+
+
+# Ignore sensitive or unnecessary files
+test.py
+CropRecommendation.ipynb
