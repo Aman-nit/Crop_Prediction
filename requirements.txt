@@ -7,4 +7,5 @@ pandas==2.3.0
 scikit-learn==1.7.0
 seaborn==0.13.2
 xgboost==3.0.2
+gunicorn
 
